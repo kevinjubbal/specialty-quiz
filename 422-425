@@ -1,0 +1,9 @@
+try {
+    const response = await fetch('Full_Specialty_Quiz_Scoring_Real_Content.csv');
+    if (!response.ok) {
+        throw new Error(`HTTP error ${response.status}: ${response.statusText}`);
+    }
+    const csvText = await response.text();
+} catch (error) {
+    console.error('Error loading quiz data:', error);
+} 

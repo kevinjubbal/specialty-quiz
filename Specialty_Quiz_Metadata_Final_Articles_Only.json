@@ -1,0 +1,627 @@
+[
+  {
+    "specialty": "Internal Medicine",
+    "description": "Internal Medicine is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in internal medicine",
+      "Common procedures in internal medicine",
+      "Patient counseling in internal medicine"
+    ],
+    "competitiveness": "Moderate",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-an-internist/"
+    }
+  },
+  {
+    "specialty": "Cardiology",
+    "description": "Cardiology is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in cardiology",
+      "Common procedures in cardiology",
+      "Patient counseling in cardiology"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-a-cardiologist/"
+    }
+  },
+  {
+    "specialty": "Gastroenterology",
+    "description": "Gastroenterology is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in gastroenterology",
+      "Common procedures in gastroenterology",
+      "Patient counseling in gastroenterology"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-a-gastroenterologist/"
+    }
+  },
+  {
+    "specialty": "Infectious Disease",
+    "description": "Infectious Disease is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in infectious disease",
+      "Common procedures in infectious disease",
+      "Patient counseling in infectious disease"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-an-infectious-disease-doctor/"
+    }
+  },
+  {
+    "specialty": "Endocrinology",
+    "description": "Endocrinology is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in endocrinology",
+      "Common procedures in endocrinology",
+      "Patient counseling in endocrinology"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-an-endocrinologist/"
+    }
+  },
+  {
+    "specialty": "Rheumatology",
+    "description": "Rheumatology is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in rheumatology",
+      "Common procedures in rheumatology",
+      "Patient counseling in rheumatology"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-a-rheumatologist/"
+    }
+  },
+  {
+    "specialty": "Family Medicine",
+    "description": "Family Medicine is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in family medicine",
+      "Common procedures in family medicine",
+      "Patient counseling in family medicine"
+    ],
+    "competitiveness": "Moderate",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-a-family-medicine-doctor/"
+    }
+  },
+  {
+    "specialty": "Pediatrics",
+    "description": "Pediatrics is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in pediatrics",
+      "Common procedures in pediatrics",
+      "Patient counseling in pediatrics"
+    ],
+    "competitiveness": "Moderate",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-a-pediatrician/"
+    }
+  },
+  {
+    "specialty": "Med-Peds",
+    "description": "Med-Peds is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in med-peds",
+      "Common procedures in med-peds",
+      "Patient counseling in med-peds"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": ""
+    }
+  },
+  {
+    "specialty": "Psychiatry",
+    "description": "Psychiatry is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in psychiatry",
+      "Common procedures in psychiatry",
+      "Patient counseling in psychiatry"
+    ],
+    "competitiveness": "Moderate",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-a-psychiatrist/"
+    }
+  },
+  {
+    "specialty": "Neurology",
+    "description": "Neurology is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in neurology",
+      "Common procedures in neurology",
+      "Patient counseling in neurology"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-a-neurologist/"
+    }
+  },
+  {
+    "specialty": "Dermatology",
+    "description": "Dermatology is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in dermatology",
+      "Common procedures in dermatology",
+      "Patient counseling in dermatology"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-a-dermatologist/"
+    }
+  },
+  {
+    "specialty": "Pathology",
+    "description": "Pathology is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in pathology",
+      "Common procedures in pathology",
+      "Patient counseling in pathology"
+    ],
+    "competitiveness": "Moderate",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-a-pathologist/"
+    }
+  },
+  {
+    "specialty": "Radiology",
+    "description": "Radiology is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in radiology",
+      "Common procedures in radiology",
+      "Patient counseling in radiology"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-a-radiologist/"
+    }
+  },
+  {
+    "specialty": "PM&R",
+    "description": "PM&R is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in pm&r",
+      "Common procedures in pm&r",
+      "Patient counseling in pm&r"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-a-pmr-doctor/"
+    }
+  },
+  {
+    "specialty": "Emergency Medicine",
+    "description": "Emergency Medicine is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in emergency medicine",
+      "Common procedures in emergency medicine",
+      "Patient counseling in emergency medicine"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-an-emergency-medicine-doctor/"
+    }
+  },
+  {
+    "specialty": "Anesthesiology",
+    "description": "Anesthesiology is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in anesthesiology",
+      "Common procedures in anesthesiology",
+      "Patient counseling in anesthesiology"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-an-anesthesiologist/"
+    }
+  },
+  {
+    "specialty": "OB-GYN",
+    "description": "OB-GYN is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in ob-gyn",
+      "Common procedures in ob-gyn",
+      "Patient counseling in ob-gyn"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-an-ob-gyn/"
+    }
+  },
+  {
+    "specialty": "General Surgery",
+    "description": "General Surgery is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in general surgery",
+      "Common procedures in general surgery",
+      "Patient counseling in general surgery"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-a-general-surgeon/"
+    }
+  },
+  {
+    "specialty": "Orthopedic Surgery",
+    "description": "Orthopedic Surgery is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in orthopedic surgery",
+      "Common procedures in orthopedic surgery",
+      "Patient counseling in orthopedic surgery"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-an-orthopedic-surgeon/"
+    }
+  },
+  {
+    "specialty": "Neurosurgery",
+    "description": "Neurosurgery is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in neurosurgery",
+      "Common procedures in neurosurgery",
+      "Patient counseling in neurosurgery"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-a-neurosurgeon/"
+    }
+  },
+  {
+    "specialty": "Plastic Surgery",
+    "description": "Plastic Surgery is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in plastic surgery",
+      "Common procedures in plastic surgery",
+      "Patient counseling in plastic surgery"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-a-plastic-surgeon/"
+    }
+  },
+  {
+    "specialty": "ENT",
+    "description": "ENT is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in ent",
+      "Common procedures in ent",
+      "Patient counseling in ent"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-an-ent/"
+    }
+  },
+  {
+    "specialty": "Urology",
+    "description": "Urology is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in urology",
+      "Common procedures in urology",
+      "Patient counseling in urology"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-a-urologist/"
+    }
+  },
+  {
+    "specialty": "Ophthalmology",
+    "description": "Ophthalmology is a medical specialty that deals with conditions and treatments related to its focus area.",
+    "pros": [
+      "High job satisfaction",
+      "Opportunity for subspecialization",
+      "Diverse clinical cases"
+    ],
+    "cons": [
+      "Lengthy training",
+      "Can be high-stress",
+      "May involve long hours"
+    ],
+    "examples": [
+      "Typical day in ophthalmology",
+      "Common procedures in ophthalmology",
+      "Patient counseling in ophthalmology"
+    ],
+    "competitiveness": "High",
+    "average_salary": "$300,000",
+    "average_work_hours": "50 hours per week",
+    "links": {
+      "article": "https://medschoolinsiders.com/medical-student/so-you-want-to-be-an-ophthalmologist/"
+    }
+  }
+]

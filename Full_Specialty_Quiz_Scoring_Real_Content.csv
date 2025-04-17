@@ -1,0 +1,177 @@
+Question,Answer Choice,Specialty,Points
+Q1. Which high school subject did you find most naturally enjoyable?,A. Biology,Internal Medicine,1
+Q1. Which high school subject did you find most naturally enjoyable?,A. Biology,Pediatrics,1
+Q1. Which high school subject did you find most naturally enjoyable?,A. Biology,Med-Peds,1
+Q1. Which high school subject did you find most naturally enjoyable?,B. Physics,Cardiology,2
+Q1. Which high school subject did you find most naturally enjoyable?,B. Physics,Radiology,2
+Q1. Which high school subject did you find most naturally enjoyable?,C. Psychology,Psychiatry,2
+Q1. Which high school subject did you find most naturally enjoyable?,C. Psychology,Neurology,2
+Q1. Which high school subject did you find most naturally enjoyable?,D. Art or Design,Dermatology,1
+Q1. Which high school subject did you find most naturally enjoyable?,D. Art or Design,Plastic Surgery,1
+Q1. Which high school subject did you find most naturally enjoyable?,D. Art or Design,Ophthalmology,1
+"Q2. If your phone breaks, what do you do first?",A. Take it apart to figure it out,General Surgery,2
+"Q2. If your phone breaks, what do you do first?",A. Take it apart to figure it out,Orthopedic Surgery,2
+"Q2. If your phone breaks, what do you do first?",A. Take it apart to figure it out,ENT,2
+"Q2. If your phone breaks, what do you do first?",A. Take it apart to figure it out,Urology,2
+"Q2. If your phone breaks, what do you do first?",A. Take it apart to figure it out,Ophthalmology,2
+"Q2. If your phone breaks, what do you do first?",B. Watch a YouTube repair video,General Surgery,1
+"Q2. If your phone breaks, what do you do first?",B. Watch a YouTube repair video,Orthopedic Surgery,1
+"Q2. If your phone breaks, what do you do first?",B. Watch a YouTube repair video,ENT,1
+"Q2. If your phone breaks, what do you do first?",B. Watch a YouTube repair video,Urology,1
+"Q2. If your phone breaks, what do you do first?",C. Bring it straight to a shop,Family Medicine,1
+"Q2. If your phone breaks, what do you do first?",C. Bring it straight to a shop,Pediatrics,1
+"Q2. If your phone breaks, what do you do first?",D. Live without it for a bit,Psychiatry,1
+"Q2. If your phone breaks, what do you do first?",D. Live without it for a bit,Pathology,1
+Q3. You’re planning a weekend. Which sounds most fun?,A. Escape room or puzzle-solving,Internal Medicine,2
+Q3. You’re planning a weekend. Which sounds most fun?,A. Escape room or puzzle-solving,Neurology,2
+Q3. You’re planning a weekend. Which sounds most fun?,A. Escape room or puzzle-solving,Infectious Disease,2
+Q3. You’re planning a weekend. Which sounds most fun?,B. Volunteering at a free clinic,Family Medicine,2
+Q3. You’re planning a weekend. Which sounds most fun?,B. Volunteering at a free clinic,Pediatrics,2
+Q3. You’re planning a weekend. Which sounds most fun?,B. Volunteering at a free clinic,Med-Peds,2
+Q3. You’re planning a weekend. Which sounds most fun?,C. Building furniture or repairing a bike,Orthopedic Surgery,2
+Q3. You’re planning a weekend. Which sounds most fun?,C. Building furniture or repairing a bike,General Surgery,2
+Q3. You’re planning a weekend. Which sounds most fun?,C. Building furniture or repairing a bike,ENT,2
+Q3. You’re planning a weekend. Which sounds most fun?,D. Sketching or photography,Dermatology,2
+Q3. You’re planning a weekend. Which sounds most fun?,D. Sketching or photography,Plastic Surgery,2
+Q3. You’re planning a weekend. Which sounds most fun?,D. Sketching or photography,Ophthalmology,2
+"Q4. When helping a friend with a problem, what’s your go-to approach?",A. Listen deeply over time,Psychiatry,2
+"Q4. When helping a friend with a problem, what’s your go-to approach?",A. Listen deeply over time,Family Medicine,2
+"Q4. When helping a friend with a problem, what’s your go-to approach?",A. Listen deeply over time,Pediatrics,2
+"Q4. When helping a friend with a problem, what’s your go-to approach?","B. Offer quick, actionable advice",Emergency Medicine,2
+"Q4. When helping a friend with a problem, what’s your go-to approach?","B. Offer quick, actionable advice",OB-GYN,2
+"Q4. When helping a friend with a problem, what’s your go-to approach?",C. Fix the issue directly,General Surgery,2
+"Q4. When helping a friend with a problem, what’s your go-to approach?",C. Fix the issue directly,Urology,2
+"Q4. When helping a friend with a problem, what’s your go-to approach?",D. Send them a useful article,Pathology,1
+"Q4. When helping a friend with a problem, what’s your go-to approach?",D. Send them a useful article,Radiology,1
+Q5. What vacation length feels perfect?,A. 2–3 days,Neurosurgery,1
+Q5. What vacation length feels perfect?,A. 2–3 days,General Surgery,1
+Q5. What vacation length feels perfect?,B. 1 week,OB-GYN,1
+Q5. What vacation length feels perfect?,B. 1 week,Emergency Medicine,1
+Q5. What vacation length feels perfect?,C. 3 weeks,Dermatology,2
+Q5. What vacation length feels perfect?,C. 3 weeks,Psychiatry,2
+Q5. What vacation length feels perfect?,D. No such thing as too long,Radiology,2
+Q5. What vacation length feels perfect?,D. No such thing as too long,Pathology,2
+Q6. You’ve worked with a patient for months. They relapse. How do you feel?,A. Frustrated but ready to keep trying,Psychiatry,2
+Q6. You’ve worked with a patient for months. They relapse. How do you feel?,A. Frustrated but ready to keep trying,Internal Medicine,2
+Q6. You’ve worked with a patient for months. They relapse. How do you feel?,A. Frustrated but ready to keep trying,Endocrinology,2
+Q6. You’ve worked with a patient for months. They relapse. How do you feel?,B. Detached — next case,Emergency Medicine,1
+Q6. You’ve worked with a patient for months. They relapse. How do you feel?,B. Detached — next case,General Surgery,1
+Q6. You’ve worked with a patient for months. They relapse. How do you feel?,C. Drained emotionally,Pediatrics,1
+Q6. You’ve worked with a patient for months. They relapse. How do you feel?,C. Drained emotionally,Family Medicine,1
+Q6. You’ve worked with a patient for months. They relapse. How do you feel?,D. Curious about what went wrong,Infectious Disease,2
+Q6. You’ve worked with a patient for months. They relapse. How do you feel?,D. Curious about what went wrong,Neurology,2
+Q7. How do you feel about assembling IKEA furniture?,A. Love it,Orthopedic Surgery,3
+Q7. How do you feel about assembling IKEA furniture?,A. Love it,General Surgery,2
+Q7. How do you feel about assembling IKEA furniture?,B. It’s fine,ENT,1
+Q7. How do you feel about assembling IKEA furniture?,B. It’s fine,Urology,1
+Q7. How do you feel about assembling IKEA furniture?,C. Meh,Internal Medicine,1
+Q7. How do you feel about assembling IKEA furniture?,C. Meh,Psychiatry,1
+Q7. How do you feel about assembling IKEA furniture?,D. Hate it,Pathology,2
+Q7. How do you feel about assembling IKEA furniture?,D. Hate it,Radiology,2
+Q8. Which task sounds most satisfying?,A. Removing a tumor,General Surgery,2
+Q8. Which task sounds most satisfying?,A. Removing a tumor,Plastic Surgery,2
+Q8. Which task sounds most satisfying?,A. Removing a tumor,Urology,1
+Q8. Which task sounds most satisfying?,B. Diagnosing a rare disease,Internal Medicine,2
+Q8. Which task sounds most satisfying?,B. Diagnosing a rare disease,Infectious Disease,2
+Q8. Which task sounds most satisfying?,C. Counseling someone through trauma,Psychiatry,2
+Q8. Which task sounds most satisfying?,C. Counseling someone through trauma,Pediatrics,1
+Q8. Which task sounds most satisfying?,D. Solving a public health problem,Family Medicine,2
+Q8. Which task sounds most satisfying?,D. Solving a public health problem,OB-GYN,1
+Q9. What’s your preferred way to fix a flat tire?,A. Fix it yourself,Orthopedic Surgery,2
+Q9. What’s your preferred way to fix a flat tire?,A. Fix it yourself,Emergency Medicine,2
+Q9. What’s your preferred way to fix a flat tire?,B. Call a friend for help,Anesthesiology,1
+Q9. What’s your preferred way to fix a flat tire?,B. Call a friend for help,Urology,1
+Q9. What’s your preferred way to fix a flat tire?,C. Call AAA,Pathology,1
+Q9. What’s your preferred way to fix a flat tire?,C. Call AAA,Radiology,1
+Q9. What’s your preferred way to fix a flat tire?,D. Take the bus instead,Psychiatry,1
+Q10. How much sleep do you ideally want each night?,A. 4–5 hrs,Neurosurgery,1
+Q10. How much sleep do you ideally want each night?,A. 4–5 hrs,General Surgery,1
+Q10. How much sleep do you ideally want each night?,B. 6–7 hrs,OB-GYN,1
+Q10. How much sleep do you ideally want each night?,B. 6–7 hrs,Anesthesiology,1
+Q10. How much sleep do you ideally want each night?,C. 7–8 hrs,Psychiatry,1
+Q10. How much sleep do you ideally want each night?,C. 7–8 hrs,Dermatology,2
+Q10. How much sleep do you ideally want each night?,D. 8+ hrs,Radiology,2
+Q10. How much sleep do you ideally want each night?,D. 8+ hrs,Pathology,2
+Q11. You’re faced with a time-sensitive issue. What do you do?,A. Fix it immediately,Emergency Medicine,2
+Q11. You’re faced with a time-sensitive issue. What do you do?,A. Fix it immediately,General Surgery,2
+Q11. You’re faced with a time-sensitive issue. What do you do?,B. Ask someone else for input,OB-GYN,1
+Q11. You’re faced with a time-sensitive issue. What do you do?,B. Ask someone else for input,ENT,1
+Q11. You’re faced with a time-sensitive issue. What do you do?,C. Delay until you’re ready,Psychiatry,1
+Q11. You’re faced with a time-sensitive issue. What do you do?,C. Delay until you’re ready,Pathology,1
+Q11. You’re faced with a time-sensitive issue. What do you do?,D. Wait and see if it resolves,Dermatology,1
+Q12. What kind of schedule sounds best?,A. Predictable 9–5,Pathology,2
+Q12. What kind of schedule sounds best?,A. Predictable 9–5,Radiology,2
+Q12. What kind of schedule sounds best?,"B. Shift work, 3–4 long days",Emergency Medicine,2
+Q12. What kind of schedule sounds best?,"B. Shift work, 3–4 long days",Anesthesiology,2
+Q12. What kind of schedule sounds best?,C. Clinic + hospital mix,OB-GYN,1
+Q12. What kind of schedule sounds best?,C. Clinic + hospital mix,Family Medicine,1
+Q12. What kind of schedule sounds best?,D. Unpredictable but exciting,General Surgery,1
+Q12. What kind of schedule sounds best?,D. Unpredictable but exciting,Urology,1
+Q13. How many hobbies do you actively pursue?,A. None — medicine is everything,Neurosurgery,1
+Q13. How many hobbies do you actively pursue?,A. None — medicine is everything,Orthopedic Surgery,1
+Q13. How many hobbies do you actively pursue?,B. 1–2,OB-GYN,1
+Q13. How many hobbies do you actively pursue?,C. 3–5,Psychiatry,2
+Q13. How many hobbies do you actively pursue?,C. 3–5,Dermatology,1
+Q13. How many hobbies do you actively pursue?,D. 6+,Family Medicine,2
+Q13. How many hobbies do you actively pursue?,D. 6+,PM&R,1
+Q14. You’re happiest when:,A. Fixing things with your hands,General Surgery,2
+Q14. You’re happiest when:,A. Fixing things with your hands,ENT,2
+Q14. You’re happiest when:,A. Fixing things with your hands,Ophthalmology,2
+Q14. You’re happiest when:,B. Explaining things to others,Family Medicine,2
+Q14. You’re happiest when:,B. Explaining things to others,Pediatrics,2
+Q14. You’re happiest when:,C. Analyzing data,Radiology,1
+Q14. You’re happiest when:,C. Analyzing data,Pathology,1
+Q14. You’re happiest when:,D. Helping someone emotionally,Psychiatry,2
+Q15. Which word speaks to your motivation the most?,A. Prestige,Dermatology,2
+Q15. Which word speaks to your motivation the most?,A. Prestige,Plastic Surgery,2
+Q15. Which word speaks to your motivation the most?,A. Prestige,Cardiology,2
+Q15. Which word speaks to your motivation the most?,B. Lifestyle,Psychiatry,2
+Q15. Which word speaks to your motivation the most?,B. Lifestyle,Dermatology,2
+Q15. Which word speaks to your motivation the most?,B. Lifestyle,PM&R,2
+Q15. Which word speaks to your motivation the most?,C. Fulfillment,Family Medicine,2
+Q15. Which word speaks to your motivation the most?,C. Fulfillment,Pediatrics,2
+Q15. Which word speaks to your motivation the most?,D. Challenge,General Surgery,2
+Q15. Which word speaks to your motivation the most?,D. Challenge,OB-GYN,2
+Q15. Which word speaks to your motivation the most?,D. Challenge,Neurosurgery,2
+Q16. Be honest… how much of a gunner are you?,A. I already have an Excel spreadsheet ranking my classmates,Dermatology,3
+Q16. Be honest… how much of a gunner are you?,A. I already have an Excel spreadsheet ranking my classmates,Plastic Surgery,3
+Q16. Be honest… how much of a gunner are you?,A. I already have an Excel spreadsheet ranking my classmates,Orthopedic Surgery,3
+Q16. Be honest… how much of a gunner are you?,A. I already have an Excel spreadsheet ranking my classmates,Neurosurgery,3
+Q16. Be honest… how much of a gunner are you?,"B. I try hard, but I pretend I don’t",OB-GYN,2
+Q16. Be honest… how much of a gunner are you?,"B. I try hard, but I pretend I don’t",Anesthesiology,2
+Q16. Be honest… how much of a gunner are you?,C. I stay in my lane — healthy boundaries only,Family Medicine,1
+Q16. Be honest… how much of a gunner are you?,C. I stay in my lane — healthy boundaries only,Internal Medicine,1
+Q16. Be honest… how much of a gunner are you?,D. I once skipped class to nap and felt zero guilt,Psychiatry,1
+Q16. Be honest… how much of a gunner are you?,D. I once skipped class to nap and felt zero guilt,Pathology,1
+Q17. Which research sounds most fun?,A. Surgical outcomes,General Surgery,2
+Q17. Which research sounds most fun?,A. Surgical outcomes,OB-GYN,2
+Q17. Which research sounds most fun?,B. Vaccine effectiveness,Infectious Disease,2
+Q17. Which research sounds most fun?,B. Vaccine effectiveness,Family Medicine,2
+Q17. Which research sounds most fun?,C. Genetic disorders,Cardiology,1
+Q17. Which research sounds most fun?,C. Genetic disorders,Neurology,1
+Q17. Which research sounds most fun?,D. Imaging diagnostics,Radiology,2
+Q17. Which research sounds most fun?,D. Imaging diagnostics,Pathology,2
+"Q18. If your day was filmed, what would the highlight reel show?",A. High-pressure saves,Emergency Medicine,2
+"Q18. If your day was filmed, what would the highlight reel show?",A. High-pressure saves,Anesthesiology,2
+"Q18. If your day was filmed, what would the highlight reel show?",B. Patient hugs and thank-yous,Family Medicine,2
+"Q18. If your day was filmed, what would the highlight reel show?",B. Patient hugs and thank-yous,Pediatrics,2
+"Q18. If your day was filmed, what would the highlight reel show?",C. Quiet breakthroughs in diagnostics,Radiology,1
+"Q18. If your day was filmed, what would the highlight reel show?",C. Quiet breakthroughs in diagnostics,Internal Medicine,1
+"Q18. If your day was filmed, what would the highlight reel show?",D. A perfectly sutured wound,Plastic Surgery,2
+"Q18. If your day was filmed, what would the highlight reel show?",D. A perfectly sutured wound,Ophthalmology,2
+Q19. You’re given a week with no responsibilities. You’d most enjoy:,A. Building or creating something,General Surgery,2
+Q19. You’re given a week with no responsibilities. You’d most enjoy:,A. Building or creating something,ENT,2
+Q19. You’re given a week with no responsibilities. You’d most enjoy:,B. Deep-diving into a topic,Internal Medicine,2
+Q19. You’re given a week with no responsibilities. You’d most enjoy:,B. Deep-diving into a topic,Neurology,2
+Q19. You’re given a week with no responsibilities. You’d most enjoy:,C. Volunteering,Family Medicine,2
+Q19. You’re given a week with no responsibilities. You’d most enjoy:,C. Volunteering,Pediatrics,2
+Q19. You’re given a week with no responsibilities. You’d most enjoy:,D. Sleeping and relaxing,Psychiatry,2
+Q19. You’re given a week with no responsibilities. You’d most enjoy:,D. Sleeping and relaxing,Dermatology,2
+Q20. You’re on a team project. What role do you gravitate toward?,A. Leader,General Surgery,2
+Q20. You’re on a team project. What role do you gravitate toward?,A. Leader,OB-GYN,2
+Q20. You’re on a team project. What role do you gravitate toward?,B. Analyst,Internal Medicine,1
+Q20. You’re on a team project. What role do you gravitate toward?,B. Analyst,Radiology,1
+Q20. You’re on a team project. What role do you gravitate toward?,C. Communicator,Pediatrics,2
+Q20. You’re on a team project. What role do you gravitate toward?,C. Communicator,Psychiatry,2
+Q20. You’re on a team project. What role do you gravitate toward?,D. Technician,Anesthesiology,2
+Q20. You’re on a team project. What role do you gravitate toward?,D. Technician,ENT,2
